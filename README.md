@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning .NET
+🔭 I’m currently studying on University of Moratuwa
+🌱 I’m currently learning .NET with React.js
 <!--
 **VidathAmarasekara/VidathAmarasekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
