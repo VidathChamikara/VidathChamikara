@@ -1,11 +1,12 @@
 # 💫 About Me:
-      Hi 👋, I'm Vidath<br>      A passionate IT Undergraduate from Sri Lanka<br>
-      🔭 I’m currently studying on University of Moratuwa<br>
-      🌱 I’m currently learning .NET platform<br>
-      💬 Ask me about Angular and React<br>
-      📫 How to reach me vidathamarasekara99@gmail.com<br>
-      📄 Know about my experiences https://vidathamarasekara9.wixsite.com/my-site<br>
-      ⚡ Fun fact funny man
+Hi 👋, I'm Vidath      
+A passionate IT Undergraduate from Sri Lanka
+🔭 I’m currently studying on University of Moratuwa
+🌱 I’m currently learning .NET platform
+💬 Ask me about Angular and React
+📫 How to reach me vidathamarasekara99@gmail.com
+ 📄 Know about my experiences https://vidathamarasekara9.wixsite.com/my-site
+ ⚡ Fun fact funny man
 
 
 ## 🌐 Socials:
