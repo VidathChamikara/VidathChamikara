@@ -37,8 +37,7 @@
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
-# 💫 About Me:
-Hi 👋, I'm Vidath 
+
 
 A passionate IT Undergraduate from Sri Lanka
 
